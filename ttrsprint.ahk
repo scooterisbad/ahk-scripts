@@ -1,5 +1,5 @@
-; Every instance of "\" (w/ or w/o quotes) is the sprint key
-; Every instance of "e" (w/ or w/o quotes) is the forward key
+; Every instance of "LShift" (w/ or w/o quotes) is the sprint key
+; Every instance of "w" (w/ or w/o quotes) is the forward key
 
 #SingleInstance, Force
 SendMode Input
