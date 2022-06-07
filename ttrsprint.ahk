@@ -8,7 +8,7 @@ SetTitleMatchMode, 1
 
 KeyDown := False
 
-#If WinActive("Toontown Rewritten") or WinActive("Toontown Multicontroller")
+#If WinActive("Toontown Rewritten") or WinActive("Multitoon Controller") or WinActive("Toontown Multicontroller")
     LShift::
         KeyState := GetKeyState("w")
         If (KeyDown = False) {
